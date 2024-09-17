@@ -1,5 +1,6 @@
-//Valeria Ballestero Ortiz - CC 1001229543
-//Isaac Esteban Uribe Jaramillo - CC 1007240624
+//Valeria Ballestero Ortiz
+//Isaac Esteban Uribe Jaramillo
+//Sara Lorena Duque Ramírez
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
